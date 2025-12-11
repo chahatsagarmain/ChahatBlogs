@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Chahat&#39;s Blogs</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Chahat&#39;s Blogs</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog post</title>
+      <link>http://localhost:1313/posts/first_blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first_blog/</guid>
+      <description>&lt;h1 id=&#34;hello-to-my-first-blog-&#34;&gt;Hello to My First Blog 🎉&lt;/h1&gt;
+&lt;p&gt;Welcome to my first blog post! This is a simple hello message.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

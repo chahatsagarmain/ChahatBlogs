@@ -1,0 +1,27 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Chahat's Blogs
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: light
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to my Blogging Website .      
+  socialIcons:
+    - name: email
+      url: 'mailto:chahatsagar2003@gmail.com'
+    - name: github
+      url: 'https://github.com/chahatsagarmain'
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  # - identifier: blogs
+  #   name: Blog
+  #   url: /blogs/
+  #   weight: 20
