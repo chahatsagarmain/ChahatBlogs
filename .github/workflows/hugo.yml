@@ -25,7 +25,7 @@ concurrency:
 defaults:
   run:
     shell: bash
-    working-directory: ./ChahatBlogs
+    # working-directory: ./ChahatBlogs
 
 jobs:
   # Build job
