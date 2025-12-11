@@ -1,11 +1,6 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
-defaults:
-  run:
-    working-directory: ./ChahatBlogs
-
-
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -30,6 +25,8 @@ concurrency:
 defaults:
   run:
     shell: bash
+  run:
+    working-directory: ./ChahatBlogs
 
 jobs:
   # Build job
